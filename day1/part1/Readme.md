@@ -113,8 +113,13 @@ Namespaces are one honking great idea -- let's do more of those!
 
 
 
+
+
 ## Reference
 
 https://goinglearn.com.tw/programming-languages/151-python-%E7%9A%84%E5%BA%95%E5%B1%A4%E6%9E%B6%E6%A7%8B
 
 https://zh.wikipedia.org/wiki/%E5%90%89%E5%A4%9A%C2%B7%E8%8C%83%E7%BD%97%E8%8B%8F%E5%A7%86
+
+
+
